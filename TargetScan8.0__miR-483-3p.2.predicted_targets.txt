@@ -1,0 +1,105 @@
+Ortholog of target gene	Representative transcript	Gene name	3P-seq tags + 5	Conserved sites total	Conserved 8mer sites	Conserved 7mer-m8 sites	Conserved 7mer-A1 sites	Poorly conserved sites total	Poorly conserved 8mer sites	Poorly conserved 7mer-m8 sites	Poorly conserved 7mer-A1 sites	6mer sites	Representative miRNA	Predicted occupancy (low miRNA)	Predicted occupancy (high miRNA)	Predicted occupancy (transfected miRNA)	Cumulative weighted context++ score	Total context++ score	Aggregate PCT	Previous TargetScan publication(s)
+C7orf55-LUC7L2	ENST00000354926.4	C7orf55-LUC7L2 readthrough 	419	1	1	0	0	0	0	0	0	0	mmu-miR-483-3p.2				-0.65	-0.67	N/A	NULL
+LUC7L2	ENST00000541515.3	LUC7-like 2 (S. cerevisiae) 	419	1	1	0	0	0	0	0	0	0	mmu-miR-483-3p.2				-0.63	-0.66	N/A	NULL
+MED1	ENST00000300651.6	mediator complex subunit 1 	87	1	1	0	0	2	1	0	1	1	mmu-miR-483-3p.2				-0.47	-0.49	N/A	2007
+CCNK	ENST00000389879.5	cyclin K 	1777	1	1	0	0	0	0	0	0	0	mmu-miR-483-3p.2				-0.43	-0.43	N/A	NULL
+ZNF225	ENST00000592780.1	zinc finger protein 225 	100	1	0	1	0	2	0	2	0	0	mmu-miR-483-3p.2				-0.42	-0.68	N/A	NULL
+RIOK3	ENST00000339486.3	RIO kinase 3 	757	1	0	1	0	1	1	0	0	1	mmu-miR-483-3p.2				-0.41	-0.45	N/A	2007
+LCMT2	ENST00000567039.1	leucine carboxyl methyltransferase 2 	274	2	0	1	1	0	0	0	0	0	mmu-miR-483-3p.2				-0.41	-0.41	N/A	NULL
+AIFM1	ENST00000535724.1	apoptosis-inducing factor, mitochondrion-associated, 1 	2582	1	0	0	1	1	0	0	1	0	mmu-miR-483-3p.2				-0.39	-0.39	N/A	NULL
+RPE	ENST00000429907.1	ribulose-5-phosphate-3-epimerase 	333	1	1	0	0	0	0	0	0	0	mmu-miR-483-3p.2				-0.39	-0.39	N/A	NULL
+LUC7L	ENST00000337351.4	LUC7-like (S. cerevisiae) 	898	1	1	0	0	0	0	0	0	0	mmu-miR-483-3p.2				-0.38	-0.39	N/A	NULL
+VEZF1	ENST00000584396.1	vascular endothelial zinc finger 1 	209	1	1	0	0	1	1	0	0	0	mmu-miR-483-3p.2				-0.37	-0.38	N/A	2007
+CYP39A1	ENST00000275016.2	cytochrome P450, family 39, subfamily A, polypeptide 1 	152	1	1	0	0	0	0	0	0	0	mmu-miR-483-3p.2				-0.36	-0.36	N/A	NULL
+H3F3B	ENST00000591890.1	H3 histone, family 3B (H3.3B) 	336	1	1	0	0	0	0	0	0	0	mmu-miR-483-3p.2				-0.35	-0.43	N/A	2007
+WDR44	ENST00000254029.3	WD repeat domain 44 	392	1	1	0	0	0	0	0	0	0	mmu-miR-483-3p.2				-0.34	-0.36	N/A	2007
+CNOT6L	ENST00000504123.1	CCR4-NOT transcription complex, subunit 6-like 	23	1	1	0	0	2	0	2	0	1	mmu-miR-483-3p.2				-0.33	-0.37	N/A	2007
+RUFY4	ENST00000441828.2	RUN and FYVE domain containing 4 	5	1	1	0	0	0	0	0	0	0	mmu-miR-483-3p.2				-0.33	-0.33	N/A	NULL
+U2AF2	ENST00000450554.2	U2 small nuclear RNA auxiliary factor 2 	1093	1	1	0	0	0	0	0	0	0	mmu-miR-483-3p.2				-0.33	-0.33	N/A	NULL
+NEK9	ENST00000238616.5	NIMA-related kinase 9 	733	1	1	0	0	0	0	0	0	2	mmu-miR-483-3p.2				-0.31	-0.33	N/A	2007
+RNF24	ENST00000336095.6	ring finger protein 24 	448	1	0	1	0	1	0	1	0	1	mmu-miR-483-3p.2				-0.30	-0.34	N/A	NULL
+IGF1	ENST00000337514.6	insulin-like growth factor 1 (somatomedin C) 	19	1	0	1	0	0	0	0	0	1	mmu-miR-483-3p.2				-0.30	-0.32	N/A	2007
+RBBP5	ENST00000264515.6	retinoblastoma binding protein 5 	166	1	0	1	0	0	0	0	0	0	mmu-miR-483-3p.2				-0.28	-0.28	N/A	NULL
+TEAD2	ENST00000598810.1	TEA domain family member 2 	589	1	1	0	0	0	0	0	0	0	mmu-miR-483-3p.2				-0.28	-0.28	N/A	NULL
+RGAG4	ENST00000545866.1	retrotransposon gag domain containing 4 	34	1	1	0	0	0	0	0	0	0	mmu-miR-483-3p.2				-0.28	-0.28	N/A	NULL
+AC012215.1	ENST00000437887.1	Uncharacterized protein  	31	1	1	0	0	0	0	0	0	1	mmu-miR-483-3p.2				-0.27	-0.32	N/A	NULL
+ZFAND2B	ENST00000409594.1	zinc finger, AN1-type domain 2B 	132	1	1	0	0	0	0	0	0	0	mmu-miR-483-3p.2				-0.25	-0.25	N/A	NULL
+CAMK2N2	ENST00000296238.3	calcium/calmodulin-dependent protein kinase II inhibitor 2 	39	1	0	1	0	0	0	0	0	0	mmu-miR-483-3p.2				-0.24	-0.24	N/A	2007
+CAMK2G	ENST00000351293.3	calcium/calmodulin-dependent protein kinase II gamma 	14	1	1	0	0	1	0	1	0	0	mmu-miR-483-3p.2				-0.24	-0.24	N/A	2007
+YY1	ENST00000262238.4	YY1 transcription factor 	1803	1	0	1	0	1	0	0	1	0	mmu-miR-483-3p.2				-0.24	-0.24	N/A	NULL
+PHF20L1	ENST00000395386.2	PHD finger protein 20-like 1 	169	1	1	0	0	0	0	0	0	0	mmu-miR-483-3p.2				-0.20	-0.20	N/A	2007
+MDM4	ENST00000391947.2	Mdm4 p53 binding protein homolog (mouse) 	443	1	0	1	0	0	0	0	0	0	mmu-miR-483-3p.2				-0.20	-0.20	N/A	NULL
+NUDT18	ENST00000521807.2	nudix (nucleoside diphosphate linked moiety X)-type motif 18 	40	1	0	1	0	0	0	0	0	1	mmu-miR-483-3p.2				-0.20	-0.20	N/A	NULL
+CDC37L1	ENST00000381854.3	cell division cycle 37-like 1 	280	1	0	1	0	0	0	0	0	0	mmu-miR-483-3p.2				-0.20	-0.20	N/A	NULL
+GPR50	ENST00000218316.3	G protein-coupled receptor 50 	148	1	0	1	0	2	0	1	1	0	mmu-miR-483-3p.2				-0.19	-0.19	N/A	NULL
+STARD4	ENST00000512160.1	StAR-related lipid transfer (START) domain containing 4 	767	1	0	0	1	0	0	0	0	0	mmu-miR-483-3p.2				-0.18	-0.18	N/A	NULL
+OGT	ENST00000373719.3	O-linked N-acetylglucosamine (GlcNAc) transferase 	1036	1	1	0	0	0	0	0	0	1	mmu-miR-483-3p.2				-0.17	-0.35	N/A	2007
+CDH4	ENST00000360469.5	cadherin 4, type 1, R-cadherin (retinal) 	33	1	1	0	0	2	0	2	0	0	mmu-miR-483-3p.2				-0.14	-0.14	N/A	NULL
+PDGFB	ENST00000331163.6	platelet-derived growth factor beta polypeptide 	5	1	0	0	1	0	0	0	0	1	mmu-miR-483-3p.2				-0.14	-0.14	N/A	2007
+NR6A1	ENST00000487099.2	nuclear receptor subfamily 6, group A, member 1 	1082	1	0	1	0	0	0	0	0	0	mmu-miR-483-3p.2				-0.14	-0.14	N/A	NULL
+HIPK2	ENST00000406875.3	homeodomain interacting protein kinase 2 	48	1	0	0	1	4	0	2	2	2	mmu-miR-483-3p.2				-0.14	-0.15	N/A	NULL
+SLC6A8	ENST00000253122.5	solute carrier family 6 (neurotransmitter transporter), member 8 	5	1	0	1	0	0	0	0	0	1	mmu-miR-483-3p.2				-0.14	-0.14	N/A	2007
+KPNB1	ENST00000290158.4	karyopherin (importin) beta 1 	465	1	0	1	0	0	0	0	0	0	mmu-miR-483-3p.2				-0.13	-0.13	N/A	2007
+XKRX	ENST00000468904.1	XK, Kell blood group complex subunit-related, X-linked 	11	1	0	1	0	0	0	0	0	0	mmu-miR-483-3p.2				-0.13	-0.13	N/A	NULL
+KLF7	ENST00000423015.1	Kruppel-like factor 7 (ubiquitous) 	737	1	0	1	0	2	1	1	0	0	mmu-miR-483-3p.2				-0.13	-0.23	N/A	NULL
+AGAP2	ENST00000257897.3	ArfGAP with GTPase domain, ankyrin repeat and PH domain 2 	12	1	0	1	0	1	0	0	1	1	mmu-miR-483-3p.2				-0.13	-0.34	N/A	NULL
+AHR	ENST00000242057.4	aryl hydrocarbon receptor 	25	1	0	1	0	0	0	0	0	0	mmu-miR-483-3p.2				-0.12	-0.12	N/A	NULL
+ERBB4	ENST00000342788.4	v-erb-b2 avian erythroblastic leukemia viral oncogene homolog 4 	27	1	0	0	1	0	0	0	0	2	mmu-miR-483-3p.2				-0.12	-0.14	N/A	2007
+UNC5D	ENST00000287272.2	unc-5 homolog D (C. elegans) 	37	1	1	0	0	0	0	0	0	2	mmu-miR-483-3p.2				-0.12	-0.14	N/A	NULL
+NPLOC4	ENST00000572760.1	nuclear protein localization 4 homolog (S. cerevisiae) 	1360	1	0	0	1	0	0	0	0	0	mmu-miR-483-3p.2				-0.11	-0.12	N/A	2007
+CLSTN2	ENST00000458420.3	calsyntenin 2 	119	1	0	1	0	2	0	1	1	0	mmu-miR-483-3p.2				-0.10	-0.18	N/A	NULL
+CLUH	ENST00000570628.2	clustered mitochondria (cluA/CLU1) homolog 	125	1	1	0	0	0	0	0	0	0	mmu-miR-483-3p.2				-0.10	-0.13	N/A	NULL
+ZZEF1	ENST00000381638.2	zinc finger, ZZ-type with EF-hand domain 1 	83	1	1	0	0	1	0	0	1	0	mmu-miR-483-3p.2				-0.10	-0.13	N/A	NULL
+RNF4	ENST00000511859.1	ring finger protein 4 	33	1	0	1	0	0	0	0	0	0	mmu-miR-483-3p.2				-0.09	-0.14	N/A	2007
+BTG1	ENST00000256015.3	B-cell translocation gene 1, anti-proliferative 	1677	1	0	0	1	0	0	0	0	0	mmu-miR-483-3p.2				-0.09	-0.09	N/A	NULL
+TBC1D12	ENST00000225235.4	TBC1 domain family, member 12 	172	1	0	0	1	0	0	0	0	0	mmu-miR-483-3p.2				-0.09	-0.12	N/A	NULL
+IP6K1	ENST00000468463.1	inositol hexakisphosphate kinase 1 	406	1	0	1	0	2	0	1	1	0	mmu-miR-483-3p.2				-0.09	-0.25	N/A	NULL
+ACSBG1	ENST00000258873.4	acyl-CoA synthetase bubblegum family member 1 	5	1	0	0	1	2	1	1	0	1	mmu-miR-483-3p.2				-0.08	-0.08	N/A	NULL
+FAM117B	ENST00000392238.2	family with sequence similarity 117, member B 	245	1	0	1	0	0	0	0	0	2	mmu-miR-483-3p.2				-0.08	-0.08	N/A	NULL
+UBN2	ENST00000473989.3	ubinuclein 2 	238	1	0	1	0	1	0	1	0	1	mmu-miR-483-3p.2				-0.07	-0.08	N/A	NULL
+XPO1	ENST00000401558.2	exportin 1 (CRM1 homolog, yeast) 	404	1	0	1	0	0	0	0	0	0	mmu-miR-483-3p.2				-0.07	-0.09	N/A	2007
+SRSF1	ENST00000258962.4	serine/arginine-rich splicing factor 1 	1430	1	0	1	0	1	0	0	1	0	mmu-miR-483-3p.2				-0.07	-0.18	N/A	2007
+STK40	ENST00000359297.2	serine/threonine kinase 40 	214	1	0	1	0	0	0	0	0	1	mmu-miR-483-3p.2				-0.07	-0.07	N/A	NULL
+SENP5	ENST00000323460.5	SUMO1/sentrin specific peptidase 5 	125	1	0	1	0	0	0	0	0	0	mmu-miR-483-3p.2				-0.06	-0.07	N/A	NULL
+PLEKHM3	ENST00000427836.2	pleckstrin homology domain containing, family M, member 3 	11	1	0	1	0	1	0	1	0	0	mmu-miR-483-3p.2				-0.06	-0.12	N/A	NULL
+B4GALT5	ENST00000371711.4	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 5 	1000	1	0	0	1	1	0	1	0	1	mmu-miR-483-3p.2				-0.06	-0.06	N/A	2007
+HIVEP2	ENST00000367604.1	human immunodeficiency virus type I enhancer binding protein 2 	137	1	0	1	0	0	0	0	0	0	mmu-miR-483-3p.2				-0.06	-0.20	N/A	2007
+ELFN2	ENST00000402918.2	extracellular leucine-rich repeat and fibronectin type III domain containing 2 	22	1	0	1	0	0	0	0	0	2	mmu-miR-483-3p.2				-0.06	-0.06	N/A	NULL
+SON	ENST00000290239.6	SON DNA binding protein 	161	1	0	1	0	0	0	0	0	0	mmu-miR-483-3p.2				-0.06	-0.06	N/A	2007
+ZDHHC5	ENST00000287169.3	zinc finger, DHHC-type containing 5 	1505	1	0	1	0	0	0	0	0	1	mmu-miR-483-3p.2				-0.05	-0.16	N/A	2007
+LPHN2	ENST00000370715.1	latrophilin 2 	407	1	1	0	0	0	0	0	0	0	mmu-miR-483-3p.2				-0.05	-0.05	N/A	NULL
+USP46	ENST00000441222.3	ubiquitin specific peptidase 46 	180	1	1	0	0	2	1	1	0	1	mmu-miR-483-3p.2				-0.05	-0.32	N/A	2007
+RAB10	ENST00000264710.4	RAB10, member RAS oncogene family 	998	1	0	1	0	0	0	0	0	0	mmu-miR-483-3p.2				-0.05	-0.21	N/A	2007
+CALCOCO1	ENST00000548263.1	calcium binding and coiled-coil domain 1 	68	1	0	1	0	0	0	0	0	0	mmu-miR-483-3p.2				-0.04	-0.04	N/A	NULL
+FMNL3	ENST00000335154.5	formin-like 3 	132	1	0	1	0	1	1	0	0	2	mmu-miR-483-3p.2				-0.04	-0.14	N/A	NULL
+MLLT6	ENST00000325718.7	myeloid/lymphoid or mixed-lineage leukemia (trithorax homolog, Drosophila); translocated to, 6 	24	1	0	1	0	0	0	0	0	2	mmu-miR-483-3p.2				-0.04	-0.04	N/A	NULL
+AMN	ENST00000299155.5	amnion associated transmembrane protein 	71	1	0	1	0	0	0	0	0	0	mmu-miR-483-3p.2				-0.03	-0.07	N/A	NULL
+VPS4A	ENST00000254950.11	vacuolar protein sorting 4 homolog A (S. cerevisiae) 	430	1	0	1	0	0	0	0	0	0	mmu-miR-483-3p.2				-0.03	-0.22	N/A	NULL
+WNK3	ENST00000375169.3	WNK lysine deficient protein kinase 3 	55	1	1	0	0	0	0	0	0	1	mmu-miR-483-3p.2				-0.03	-0.03	N/A	NULL
+NRG2	ENST00000394770.1	neuregulin 2 	9	1	0	1	0	1	1	0	0	0	mmu-miR-483-3p.2				-0.03	-0.05	N/A	NULL
+ANKFY1	ENST00000341657.4	ankyrin repeat and FYVE domain containing 1 	969	1	0	1	0	1	0	1	0	0	mmu-miR-483-3p.2				-0.03	-0.05	N/A	NULL
+EXOC7	ENST00000607838.1	exocyst complex component 7 	1483	1	0	1	0	0	0	0	0	2	mmu-miR-483-3p.2				-0.03	-0.04	N/A	NULL
+GGACT	ENST00000376250.2	gamma-glutamylamine cyclotransferase 	164	1	0	1	0	0	0	0	0	0	mmu-miR-483-3p.2				-0.02	-0.09	N/A	NULL
+USP24	ENST00000294383.6	ubiquitin specific peptidase 24 	306	1	1	0	0	1	0	1	0	0	mmu-miR-483-3p.2				-0.02	-0.05	N/A	NULL
+SATB1	ENST00000338745.6	SATB homeobox 1 	312	1	0	1	0	0	0	0	0	1	mmu-miR-483-3p.2				-0.02	-0.10	N/A	2007
+FAM126B	ENST00000418596.3	family with sequence similarity 126, member B 	132	1	0	1	0	0	0	0	0	0	mmu-miR-483-3p.2				-0.02	-0.02	N/A	2007
+C9orf69	ENST00000561457.1	chromosome 9 open reading frame 69 	134	1	0	0	1	0	0	0	0	1	mmu-miR-483-3p.2				-0.01	-0.18	N/A	NULL
+TENM4	ENST00000278550.7	teneurin transmembrane protein 4 	34	1	1	0	0	1	0	1	0	1	mmu-miR-483-3p.2				-0.01	-0.05	N/A	NULL
+INO80	ENST00000361937.3	INO80 complex subunit 	279	2	1	0	1	2	1	1	0	0	mmu-miR-483-3p.2				-0.01	-0.24	N/A	2007
+FRS2	ENST00000550389.1	fibroblast growth factor receptor substrate 2 	176	1	0	0	1	0	0	0	0	0	mmu-miR-483-3p.2				-0.01	-0.01	N/A	NULL
+HIC2	ENST00000407464.2	hypermethylated in cancer 2 	28	1	0	1	0	1	0	0	1	0	mmu-miR-483-3p.2				-0.01	-0.03	N/A	2007
+IER5	ENST00000367577.4	immediate early response 5 	11212	1	1	0	0	0	0	0	0	1	mmu-miR-483-3p.2				0	-0.30	N/A	NULL
+TPD52	ENST00000379096.5	tumor protein D52 	4585	1	0	0	1	0	0	0	0	0	mmu-miR-483-3p.2				0	-0.09	N/A	2007
+HNRNPA0	ENST00000314940.4	heterogeneous nuclear ribonucleoprotein A0 	22668	1	0	0	1	1	0	1	0	2	mmu-miR-483-3p.2				0	-0.36	N/A	NULL
+PGAM1	ENST00000334828.5	phosphoglycerate mutase 1 (brain) 	927	1	1	0	0	0	0	0	0	0	mmu-miR-483-3p.2				0	-0.56	N/A	NULL
+OXA1L	ENST00000285848.5	oxidase (cytochrome c) assembly 1-like 	317	1	0	1	0	0	0	0	0	0	mmu-miR-483-3p.2				0	-0.15	N/A	NULL
+G6PC3	ENST00000269097.4	glucose 6 phosphatase, catalytic, 3 	429	1	0	1	0	1	1	0	0	0	mmu-miR-483-3p.2				0	-0.45	N/A	NULL
+COPS2	ENST00000388901.5	COP9 signalosome subunit 2 	11120	1	1	0	0	0	0	0	0	0	mmu-miR-483-3p.2				0	-0.33	N/A	NULL
+TSPAN14	ENST00000429989.3	tetraspanin 14 	239	1	1	0	0	0	0	0	0	2	mmu-miR-483-3p.2				0	-0.08	N/A	NULL
+MXD4	ENST00000337190.2	MAX dimerization protein 4 	1173	1	0	1	0	0	0	0	0	1	mmu-miR-483-3p.2				0	-0.18	N/A	2007
+AHSA2	ENST00000394457.3	AHA1, activator of heat shock 90kDa protein ATPase homolog 2 (yeast) 	820	1	0	0	1	0	0	0	0	1	mmu-miR-483-3p.2				0	-0.05	N/A	NULL
+SPRYD4	ENST00000338146.5	SPRY domain containing 4 	1999	1	0	1	0	0	0	0	0	0	mmu-miR-483-3p.2				0	-0.02	N/A	NULL
+FTCD	ENST00000355384.2	formimidoyltransferase cyclodeaminase 	17	1	1	0	0	0	0	0	0	0	mmu-miR-483-3p.2				0	-0.76	N/A	NULL
+RNF149	ENST00000295317.3	ring finger protein 149 	318	1	1	0	0	0	0	0	0	0	mmu-miR-483-3p.2				0	-0.52	N/A	NULL
+SF1	ENST00000377390.3	splicing factor 1 	17473	1	0	0	1	0	0	0	0	0	mmu-miR-483-3p.2				0	-0.06	N/A	NULL
+CNOT7	ENST00000361272.4	CCR4-NOT transcription complex, subunit 7 	415	1	0	1	0	0	0	0	0	0	mmu-miR-483-3p.2				0	-0.19	N/A	2007

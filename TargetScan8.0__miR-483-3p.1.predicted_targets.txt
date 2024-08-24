@@ -1,0 +1,87 @@
+Ortholog of target gene	Representative transcript	Gene name	3P-seq tags + 5	Conserved sites total	Conserved 8mer sites	Conserved 7mer-m8 sites	Conserved 7mer-A1 sites	Poorly conserved sites total	Poorly conserved 8mer sites	Poorly conserved 7mer-m8 sites	Poorly conserved 7mer-A1 sites	6mer sites	Representative miRNA	Predicted occupancy (low miRNA)	Predicted occupancy (high miRNA)	Predicted occupancy (transfected miRNA)	Cumulative weighted context++ score	Total context++ score	Aggregate PCT	Previous TargetScan publication(s)
+C20orf195	ENST00000370098.3	chromosome 20 open reading frame 195 	11	1	1	0	0	0	0	0	0	0	mmu-miR-483-3p.1				-0.94	-0.94	N/A	NULL
+ZCWPW1	ENST00000360951.4	zinc finger, CW type with PWWP domain 1 	5	1	1	0	0	1	0	1	0	0	mmu-miR-483-3p.1				-0.65	-0.65	N/A	NULL
+RAMP2	ENST00000588576.1	receptor (G protein-coupled) activity modifying protein 2 	47	1	1	0	0	0	0	0	0	0	mmu-miR-483-3p.1				-0.60	-0.60	N/A	NULL
+HM13	ENST00000335574.5	histocompatibility (minor) 13 	4848	1	0	1	0	1	0	1	0	0	mmu-miR-483-3p.1				-0.57	-0.57	N/A	NULL
+RTFDC1	ENST00000395881.3	replication termination factor 2 domain containing 1 	15783	1	0	1	0	1	0	1	0	0	mmu-miR-483-3p.1				-0.48	-0.48	N/A	NULL
+FGFR2	ENST00000369061.4	fibroblast growth factor receptor 2 	75	1	1	0	0	0	0	0	0	0	mmu-miR-483-3p.1				-0.46	-0.46	N/A	NULL
+TP73	ENST00000378280.1	tumor protein p73 	831	1	0	1	0	2	0	2	0	0	mmu-miR-483-3p.1				-0.43	-0.46	N/A	NULL
+AC174470.1	ENST00000457257.1		164	1	1	0	0	0	0	0	0	1	mmu-miR-483-3p.1				-0.42	-0.42	N/A	NULL
+SLC18A1	ENST00000437980.1	solute carrier family 18 (vesicular monoamine transporter), member 1 	5	1	1	0	0	0	0	0	0	0	mmu-miR-483-3p.1				-0.38	-0.38	N/A	NULL
+RPS24	ENST00000435275.1	ribosomal protein S24 	39029	1	0	0	1	0	0	0	0	0	mmu-miR-483-3p.1				-0.36	-0.36	N/A	NULL
+ZBTB12	ENST00000375527.2	zinc finger and BTB domain containing 12 	18	1	1	0	0	0	0	0	0	0	mmu-miR-483-3p.1				-0.35	-0.52	N/A	NULL
+MSL2	ENST00000309993.2	male-specific lethal 2 homolog (Drosophila) 	175	2	1	1	0	1	0	0	1	0	mmu-miR-483-3p.1				-0.35	-0.56	N/A	NULL
+CTDSPL2	ENST00000260327.4	CTD (carboxy-terminal domain, RNA polymerase II, polypeptide A) small phosphatase like 2 	457	1	1	0	0	0	0	0	0	0	mmu-miR-483-3p.1				-0.34	-0.38	N/A	NULL
+FBXO24	ENST00000360609.2	F-box protein 24 	19	1	1	0	0	0	0	0	0	0	mmu-miR-483-3p.1				-0.34	-0.34	N/A	NULL
+RGS9BP	ENST00000334176.3	regulator of G protein signaling 9 binding protein 	13	1	0	1	0	0	0	0	0	0	mmu-miR-483-3p.1				-0.33	-0.33	N/A	NULL
+CTNNB1	ENST00000349496.5	catenin (cadherin-associated protein), beta 1, 88kDa 	7257	1	1	0	0	0	0	0	0	0	mmu-miR-483-3p.1				-0.33	-0.33	N/A	NULL
+LCMT2	ENST00000567039.1	leucine carboxyl methyltransferase 2 	274	1	0	1	0	0	0	0	0	1	mmu-miR-483-3p.1				-0.33	-0.39	N/A	NULL
+CDK4	ENST00000312990.6	cyclin-dependent kinase 4 	290	1	0	1	0	0	0	0	0	0	mmu-miR-483-3p.1				-0.32	-0.32	N/A	NULL
+IQSEC2	ENST00000375365.2	IQ motif and Sec7 domain 2 	5	1	1	0	0	0	0	0	0	0	mmu-miR-483-3p.1				-0.30	-0.30	N/A	NULL
+RNF32	ENST00000311822.8	ring finger protein 32 	15	1	0	1	0	0	0	0	0	0	mmu-miR-483-3p.1				-0.30	-0.30	N/A	NULL
+UQCR10	ENST00000401406.3	ubiquinol-cytochrome c reductase, complex III subunit X 	6196	1	0	0	1	0	0	0	0	0	mmu-miR-483-3p.1				-0.30	-0.30	N/A	NULL
+GAP43	ENST00000305124.6	growth associated protein 43 	5	1	0	1	0	0	0	0	0	0	mmu-miR-483-3p.1				-0.30	-0.30	N/A	NULL
+TAL1	ENST00000371884.2	T-cell acute lymphocytic leukemia 1 	5	1	1	0	0	0	0	0	0	2	mmu-miR-483-3p.1				-0.29	-0.29	N/A	NULL
+AHR	ENST00000242057.4	aryl hydrocarbon receptor 	25	1	0	1	0	1	0	1	0	1	mmu-miR-483-3p.1				-0.28	-0.28	N/A	NULL
+MDM4	ENST00000391947.2	Mdm4 p53 binding protein homolog (mouse) 	443	1	0	1	0	0	0	0	0	0	mmu-miR-483-3p.1				-0.28	-0.28	N/A	NULL
+U2AF2	ENST00000450554.2	U2 small nuclear RNA auxiliary factor 2 	1093	1	0	1	0	0	0	0	0	0	mmu-miR-483-3p.1				-0.27	-0.27	N/A	NULL
+RPE	ENST00000429907.1	ribulose-5-phosphate-3-epimerase 	333	1	0	1	0	1	0	0	1	0	mmu-miR-483-3p.1				-0.26	-0.28	N/A	NULL
+DDX6	ENST00000264018.4	DEAD (Asp-Glu-Ala-Asp) box helicase 6 	11	1	0	1	0	3*	0	1	1	1	mmu-miR-483-3p.1				-0.25	-0.41	N/A	NULL
+STAT1	ENST00000540176.1	signal transducer and activator of transcription 1, 91kDa 	326	1	0	1	0	1	0	1	0	0	mmu-miR-483-3p.1				-0.25	-0.25	N/A	NULL
+GPC2	ENST00000292377.2	glypican 2 	52	1	0	1	0	0	0	0	0	1	mmu-miR-483-3p.1				-0.24	-0.24	N/A	NULL
+SLC6A6	ENST00000454876.2	solute carrier family 6 (neurotransmitter transporter), member 6 	280	1	0	1	0	0	0	0	0	2	mmu-miR-483-3p.1				-0.23	-0.25	N/A	NULL
+KRAS	ENST00000256078.4	Kirsten rat sarcoma viral oncogene homolog 	40	1	0	0	1	1	0	1	0	0	mmu-miR-483-3p.1				-0.23	-0.40	N/A	NULL
+UPF3B	ENST00000276201.2	UPF3 regulator of nonsense transcripts homolog B (yeast) 	11	1	0	1	0	0	0	0	0	0	mmu-miR-483-3p.1				-0.22	-0.22	N/A	NULL
+BBC3	ENST00000341983.4	BCL2 binding component 3 	87	1	0	1	0	0	0	0	0	0	mmu-miR-483-3p.1				-0.22	-0.22	N/A	NULL
+CDC37L1	ENST00000381854.3	cell division cycle 37-like 1 	280	1	0	1	0	0	0	0	0	0	mmu-miR-483-3p.1				-0.22	-0.22	N/A	NULL
+GPR50	ENST00000218316.3	G protein-coupled receptor 50 	148	1	0	1	0	1	0	1	0	0	mmu-miR-483-3p.1				-0.21	-0.22	N/A	NULL
+ETV3	ENST00000368192.4	ets variant 3 	37	1	0	1	0	1	0	1	0	0	mmu-miR-483-3p.1				-0.20	-0.20	N/A	NULL
+PAM	ENST00000438793.3	peptidylglycine alpha-amidating monooxygenase 	17149	1	0	1	0	0	0	0	0	0	mmu-miR-483-3p.1				-0.20	-0.20	N/A	NULL
+XKRX	ENST00000468904.1	XK, Kell blood group complex subunit-related, X-linked 	11	1	0	1	0	0	0	0	0	1	mmu-miR-483-3p.1				-0.19	-0.21	N/A	NULL
+FOSL2	ENST00000379619.1	FOS-like antigen 2 	2255	1	1	0	0	1	0	1	0	2	mmu-miR-483-3p.1				-0.19	-0.40	N/A	NULL
+FBXO28	ENST00000424254.2	F-box protein 28 	461	1	0	1	0	1*	0	0	0	0	mmu-miR-483-3p.1				-0.18	-0.18	N/A	NULL
+CHSY3	ENST00000305031.4	chondroitin sulfate synthase 3 	221	1	0	1	0	0	0	0	0	0	mmu-miR-483-3p.1				-0.18	-0.21	N/A	NULL
+RCAN2	ENST00000330430.6	regulator of calcineurin 2 	32	1	0	1	0	0	0	0	0	0	mmu-miR-483-3p.1				-0.18	-0.23	N/A	NULL
+GPN2	ENST00000374135.4	GPN-loop GTPase 2 	97	1	0	1	0	0	0	0	0	0	mmu-miR-483-3p.1				-0.17	-0.21	N/A	NULL
+AGAP2	ENST00000257897.3	ArfGAP with GTPase domain, ankyrin repeat and PH domain 2 	12	1	0	1	0	1	0	1	0	1	mmu-miR-483-3p.1				-0.17	-0.33	N/A	NULL
+TENM3	ENST00000511685.1	teneurin transmembrane protein 3 	30	1	0	1	0	0	0	0	0	0	mmu-miR-483-3p.1				-0.16	-0.16	N/A	NULL
+DNAH17-AS1	ENST00000598378.1	DNAH17 antisense RNA 1 	23	1	0	0	1	0	0	0	0	0	mmu-miR-483-3p.1				-0.15	-0.15	N/A	NULL
+CNIH2	ENST00000528852.1	cornichon family AMPA receptor auxiliary protein 2 	158	1	0	1	0	0	0	0	0	0	mmu-miR-483-3p.1				-0.15	-0.15	N/A	NULL
+TNPO2	ENST00000425528.1	transportin 2 	1620	1	0	1	0	0	0	0	0	0	mmu-miR-483-3p.1				-0.13	-0.13	N/A	NULL
+ZNF449	ENST00000339249.4	zinc finger protein 449 	345	1	0	1	0	0	0	0	0	0	mmu-miR-483-3p.1				-0.13	-0.14	N/A	NULL
+RGAG4	ENST00000545866.1	retrotransposon gag domain containing 4 	34	1	0	1	0	0	0	0	0	2	mmu-miR-483-3p.1				-0.13	-0.13	N/A	NULL
+PMEPA1	ENST00000341744.3	prostate transmembrane protein, androgen induced 1 	736	1	0	0	1	0	0	0	0	1	mmu-miR-483-3p.1				-0.13	-0.13	N/A	NULL
+HNRNPR	ENST00000478691.1	heterogeneous nuclear ribonucleoprotein R 	6629	1	0	0	1	0	0	0	0	1	mmu-miR-483-3p.1				-0.13	-0.13	N/A	NULL
+RAB15	ENST00000436278.2	RAB15, member RAS oncogene family 	23	1	0	0	1	0	0	0	0	1	mmu-miR-483-3p.1				-0.13	-0.13	N/A	NULL
+TTPAL	ENST00000372906.2	tocopherol (alpha) transfer protein-like 	265	1	0	0	1	0	0	0	0	1	mmu-miR-483-3p.1				-0.12	-0.13	N/A	NULL
+STK40	ENST00000359297.2	serine/threonine kinase 40 	214	1	0	1	0	0	0	0	0	0	mmu-miR-483-3p.1				-0.12	-0.12	N/A	NULL
+MLLT1	ENST00000252674.7	myeloid/lymphoid or mixed-lineage leukemia (trithorax homolog, Drosophila); translocated to, 1 	33	1	0	1	0	0	0	0	0	0	mmu-miR-483-3p.1				-0.12	-0.27	N/A	NULL
+CAND1	ENST00000545606.1	cullin-associated and neddylation-dissociated 1 	1568	1	0	1	0	0	0	0	0	0	mmu-miR-483-3p.1				-0.11	-0.29	N/A	NULL
+ARHGAP44	ENST00000262444.9	Rho GTPase activating protein 44 	22	1	0	1	0	0	0	0	0	0	mmu-miR-483-3p.1				-0.11	-0.11	N/A	NULL
+KLF7	ENST00000423015.1	Kruppel-like factor 7 (ubiquitous) 	737	1	0	1	0	0	0	0	0	3	mmu-miR-483-3p.1				-0.11	-0.11	N/A	NULL
+XPO1	ENST00000401558.2	exportin 1 (CRM1 homolog, yeast) 	404	1	0	1	0	1	0	0	1	0	mmu-miR-483-3p.1				-0.10	-0.27	N/A	NULL
+CPD	ENST00000225719.4	carboxypeptidase D 	1766	1	0	1	0	0	0	0	0	0	mmu-miR-483-3p.1				-0.09	-0.09	N/A	NULL
+PIP4K2C	ENST00000354947.5	phosphatidylinositol-5-phosphate 4-kinase, type II, gamma 	457	1	0	1	0	0	0	0	0	0	mmu-miR-483-3p.1				-0.08	-0.09	N/A	NULL
+GDF11	ENST00000257868.5	growth differentiation factor 11 	847	1	1	0	0	1	0	0	1	1	mmu-miR-483-3p.1				-0.08	-0.38	N/A	NULL
+SPTSSA	ENST00000298130.4	serine palmitoyltransferase, small subunit A 	27	1	0	0	1	0	0	0	0	1	mmu-miR-483-3p.1				-0.07	-0.16	N/A	NULL
+FRMPD4	ENST00000380682.1	FERM and PDZ domain containing 4 	25	1	0	1	0	0	0	0	0	1	mmu-miR-483-3p.1				-0.07	-0.07	N/A	NULL
+MEX3C	ENST00000592416.1	mex-3 RNA binding family member C 	5	1	0	0	1	0	0	0	0	0	mmu-miR-483-3p.1				-0.07	-0.07	N/A	NULL
+ZZEF1	ENST00000381638.2	zinc finger, ZZ-type with EF-hand domain 1 	83	1	0	1	0	0	0	0	0	1	mmu-miR-483-3p.1				-0.07	-0.09	N/A	NULL
+TAOK1	ENST00000261716.3	TAO kinase 1 	164	1	0	1	0	0	0	0	0	4	mmu-miR-483-3p.1				-0.07	-0.07	N/A	NULL
+CAPRIN1	ENST00000341394.4	cell cycle associated protein 1 	650	1	0	0	1	1	0	1	0	1	mmu-miR-483-3p.1				-0.07	-0.20	N/A	NULL
+RAB6B	ENST00000285208.4	RAB6B, member RAS oncogene family 	669	1	0	0	1	1	0	1	0	1	mmu-miR-483-3p.1				-0.07	-0.17	N/A	NULL
+CLCN6	ENST00000312413.6	chloride channel, voltage-sensitive 6 	227	1	0	1	0	0	0	0	0	3	mmu-miR-483-3p.1				-0.07	-0.07	N/A	NULL
+AAK1	ENST00000409085.4	AP2 associated kinase 1 	27	1	0	1	0	1	0	1	0	5	mmu-miR-483-3p.1				-0.06	-0.14	N/A	NULL
+ROCK1	ENST00000399799.2	Rho-associated, coiled-coil containing protein kinase 1 	7	1	0	0	1	0	0	0	0	0	mmu-miR-483-3p.1				-0.06	-0.06	N/A	NULL
+XYLT1	ENST00000261381.6	xylosyltransferase I 	159	1	0	0	1	0	0	0	0	3	mmu-miR-483-3p.1				-0.06	-0.06	N/A	NULL
+VSIG4	ENST00000455586.2	V-set and immunoglobulin domain containing 4 	5	1	0	0	1	0	0	0	0	0	mmu-miR-483-3p.1				-0.04	-0.04	N/A	NULL
+CCDC85C	ENST00000380243.4	coiled-coil domain containing 85C 	86	1	0	0	1	0	0	0	0	2	mmu-miR-483-3p.1				-0.03	-0.14	N/A	NULL
+LRRC8C	ENST00000370454.4	leucine rich repeat containing 8 family, member C 	544	1	0	0	1	0	0	0	0	0	mmu-miR-483-3p.1				-0.03	-0.12	N/A	NULL
+PLXND1	ENST00000393239.1	plexin D1 	211	1	0	1	0	0	0	0	0	1	mmu-miR-483-3p.1				-0.02	-0.02	N/A	NULL
+KCMF1	ENST00000409785.4	potassium channel modulatory factor 1 	1285	1	0	0	1	0	0	0	0	0	mmu-miR-483-3p.1				-0.02	-0.16	N/A	NULL
+MTMR3	ENST00000333027.3	myotubularin related protein 3 	123	1	0	1	0	0	0	0	0	0	mmu-miR-483-3p.1				-0.01	-0.08	N/A	NULL
+POLR2F	ENST00000442738.2	polymerase (RNA) II (DNA directed) polypeptide F 	134	1	0	0	1	0	0	0	0	1	mmu-miR-483-3p.1				-0.01	-0.03	N/A	NULL
+EXOC7	ENST00000607838.1	exocyst complex component 7 	1483	1	0	1	0	0	0	0	0	0	mmu-miR-483-3p.1				-0.01	-0.02	N/A	NULL
+ROBO2	ENST00000461745.1	roundabout, axon guidance receptor, homolog 2 (Drosophila) 	22	1	0	0	1	0	0	0	0	1	mmu-miR-483-3p.1				-0.01	-0.01	N/A	NULL
+SMC1A	ENST00000322213.4	structural maintenance of chromosomes 1A 	1626	1	1	0	0	0	0	0	0	1	mmu-miR-483-3p.1				0	-0.22	N/A	NULL
+CNOT7	ENST00000361272.4	CCR4-NOT transcription complex, subunit 7 	415	1	0	1	0	0	0	0	0	0	mmu-miR-483-3p.1				0	-0.24	N/A	NULL
